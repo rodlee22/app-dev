@@ -1,3 +1,7 @@
 # app-dev
 My first repository
-My favorite movie are Ghosted and Avengers :joy:
+
+# Rodley Madlangbayan
+## My favorite movies and series
+** My favorite movie are Ghosted and Avengers**
+---
