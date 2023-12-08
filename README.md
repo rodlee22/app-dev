@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-My favorite movie is Ghosted and Avengers :joy:
+My favorite movie are Ghosted and Avengers :joy:
